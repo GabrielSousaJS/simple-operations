@@ -1,0 +1,14 @@
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\bin\Debug\net8.0\SimpleOperations.exe
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\bin\Debug\net8.0\SimpleOperations.deps.json
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\bin\Debug\net8.0\SimpleOperations.runtimeconfig.json
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\bin\Debug\net8.0\SimpleOperations.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\bin\Debug\net8.0\SimpleOperations.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\obj\Debug\net8.0\SimpleOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\obj\Debug\net8.0\SimpleOperations.AssemblyInfoInputs.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\obj\Debug\net8.0\SimpleOperations.AssemblyInfo.cs
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\obj\Debug\net8.0\SimpleOperations.csproj.CoreCompileInputs.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\obj\Debug\net8.0\SimpleOperations.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\obj\Debug\net8.0\refint\SimpleOperations.dll
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\obj\Debug\net8.0\SimpleOperations.pdb
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\obj\Debug\net8.0\SimpleOperations.genruntimeconfig.cache
+C:\Users\gabri\ws-rocketseat\ws-csharp-desafio-01\SimpleOperations\obj\Debug\net8.0\ref\SimpleOperations.dll

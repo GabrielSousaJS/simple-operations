@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\simpleoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\simpleoperations\\mathematicaloperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|solutionrelative:mathematicaloperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\simpleoperations\\currentdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|solutionrelative:currentdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\simpleoperations\\checkcarlicenseplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|solutionrelative:checkcarlicenseplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\simpleoperations\\charactercontactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|solutionrelative:charactercontactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\simpleoperations\\concatenate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|solutionrelative:concatenate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\simpleoperations\\hellouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61498932-EC16-4BF4-AB04-C73E1743CE4F}|SimpleOperations.csproj|solutionrelative:hellouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentDate.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\CurrentDate.cs",
+              "RelativeDocumentMoniker": "CurrentDate.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\CurrentDate.cs",
+              "RelativeToolTip": "CurrentDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:54:53.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathematicalOperation.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\MathematicalOperation.cs",
+              "RelativeDocumentMoniker": "MathematicalOperation.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\MathematicalOperation.cs",
+              "RelativeToolTip": "MathematicalOperation.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:07:10.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Concatenate.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\Concatenate.cs",
+              "RelativeDocumentMoniker": "Concatenate.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\Concatenate.cs",
+              "RelativeToolTip": "Concatenate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:04:37.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloUser.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\HelloUser.cs",
+              "RelativeDocumentMoniker": "HelloUser.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\HelloUser.cs",
+              "RelativeToolTip": "HelloUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:01:37.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:00:58.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckCarLicensePlate.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\CheckCarLicensePlate.cs",
+              "RelativeDocumentMoniker": "CheckCarLicensePlate.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\CheckCarLicensePlate.cs",
+              "RelativeToolTip": "CheckCarLicensePlate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:18:04.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterContactor.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\CharacterContactor.cs",
+              "RelativeDocumentMoniker": "CharacterContactor.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-01\\SimpleOperations\\CharacterContactor.cs",
+              "RelativeToolTip": "CharacterContactor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:14:48.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
